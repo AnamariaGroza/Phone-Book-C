@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651444636 source:c:\users\hp\codeblocks\proiectpp\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+
